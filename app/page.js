@@ -528,7 +528,7 @@ export default function LandingPage() {
       <section
         id="how-it-works"
         className="w-full py-12 md:py-24 bg-background relative overflow-x-hidden" // Added overflow-x-hidden
-        aria-label="How EdgeCareer Works"
+        aria-label="How MENTORx Works"
         ref={howItWorksRef}
       >
         {/* Background decorative elements - adjust positioning to prevent overflow */}
@@ -850,7 +850,7 @@ export default function LandingPage() {
               Frequently Asked Questions
             </motion.h2>
             <motion.p variants={fadeIn} className="text-muted-foreground">
-              Find answers to common questions about our platform
+              Common questions about our platform
             </motion.p>
           </motion.div>
 
@@ -947,7 +947,7 @@ export default function LandingPage() {
                 visible: { opacity: 1, y: 0, transition: { duration: 0.6 } },
               }}
             >
-              Ready to Accelerate Your Career?
+              Accelerate Your Career?
             </motion.h2>
 
             <motion.p
@@ -961,8 +961,7 @@ export default function LandingPage() {
                 },
               }}
             >
-              Join thousands of professionals who are advancing their careers
-              with AI-powered guidance.
+           Emphasizes the shift from uncertainty to concrete data.
             </motion.p>
 
             <motion.div
@@ -1021,7 +1020,7 @@ export default function LandingPage() {
                   />
                 ))}
               </motion.div>
-              <span className="text-xs">+2300 users joined this month</span>
+              <span className="text-xs">+700 users joined this month</span>
             </motion.div>
           </motion.div>
         </motion.div>

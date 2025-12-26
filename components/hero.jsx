@@ -241,7 +241,7 @@ useEffect(() => {
                 animate={{ opacity: 1 }}
                 transition={{ duration: 1.2, delay: 0.2 }}
               >
-                Welcome to EdgeCareer
+                Welcome to MENTORx
               </motion.span>
               <br />
               <motion.span
@@ -276,7 +276,7 @@ useEffect(() => {
                   </div>
 
                   <p className="text-sm italic text-muted-foreground leading-relaxed">
-                    "{quote.q}" — <span className="font-medium">Amit Kumar, Founder of TechieHelp</span>
+                    "{quote.q}" — <span className="font-medium">Ashutosh Sharma</span>
                   </p>
                       
                 </motion.div>
@@ -493,7 +493,7 @@ useEffect(() => {
             >
               <div className="flex items-center gap-2">
                 <Star className="text-yellow-500 h-5 w-5" />
-                <span className="text-sm font-medium">95% Success Rate</span>
+                <span className="text-sm font-medium">90% Success Rate</span>
               </div>
             </motion.div>
 
