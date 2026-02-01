@@ -8,8 +8,6 @@ import {
   GraduationCap,
   ChevronDown,
   StarsIcon,
-  MoonIcon,
-  SunIcon,
 } from "lucide-react";
 
 import Link from "next/link";
@@ -22,7 +20,6 @@ import {
 } from "@/components/ui/dropdown-menu";
 import Image from "next/image";
 import { checkUser } from "@/lib/checkUser";
-import { useTheme } from "next-themes";
 import ThemSwitch from "./theme-switch";
 
 

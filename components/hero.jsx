@@ -100,18 +100,6 @@ const [quoteError, setQuoteError] = useState(null);
 useEffect(() => {
   async function fetchQuote() {
     try {
-      const res = await fetch("https://zenquotes.io/api/today", { cache: "no-store" });
-      const data = await res.json();
-     setQuote(data[0]);
-    } catch (error) {
-      setQuoteError("Could not load today's quote.");
-    }
-  }
-
-  fetchQuote();
-}, []);useEffect(() => {
-  async function fetchQuote() {
-    try {
       const res = await fetch("/api/quote");
       const data = await res.json();
       setQuote(data);
@@ -402,7 +390,7 @@ useEffect(() => {
               {/* Responsive image with aspect ratio preservation */}
               <div className="relative w-full aspect-video">
                 <Image
-                  src="/about.webp"
+                  src="/about.png"
                   fill
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 70vw, 60vw"
                   alt="Dashboard Preview"
