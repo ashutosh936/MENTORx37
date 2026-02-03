@@ -128,9 +128,9 @@ MENTORx37/
 
 ## Author
 
-**Ashutosh Sharma**
+**Bharat Bansal**
 
-- GitHub: [@ashutosh936](https://github.com/ashutosh936)
+- GitHub: [@bb2752552](https://github.com/bb2752552)
 
 ## License
 
