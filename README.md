@@ -41,7 +41,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/ashutosh936/MENTORx37.git
+git clone https://github.com/bb2752552/AicareerCoachBansal46
 cd MENTORx37
 ```
 
@@ -139,3 +139,4 @@ This project is licensed under the MIT License.
 ---
 
 If you found this project helpful, please give it a star!
+
