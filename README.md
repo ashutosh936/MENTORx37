@@ -128,7 +128,7 @@ MENTORx37/
 
 ## Author
 
-**Bharat Bansal**
+**Ashutosh Vishwakarma**
 
 - GitHub: [@ashutosh936](https://github.com/ashutosh936)
 
@@ -139,5 +139,6 @@ This project is licensed under the MIT License.
 ---
 
 If you found this project helpful, please give it a star!
+
 
 
